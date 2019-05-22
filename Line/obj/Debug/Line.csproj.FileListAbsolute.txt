@@ -1,0 +1,10 @@
+D:\C#\Graph\Line\bin\Debug\Line.exe.config
+D:\C#\Graph\Line\bin\Debug\Line.exe
+D:\C#\Graph\Line\bin\Debug\Line.pdb
+D:\C#\Graph\Line\obj\Debug\Line.csprojAssemblyReference.cache
+D:\C#\Graph\Line\obj\Debug\Line.Form1.resources
+D:\C#\Graph\Line\obj\Debug\Line.Properties.Resources.resources
+D:\C#\Graph\Line\obj\Debug\Line.csproj.GenerateResource.cache
+D:\C#\Graph\Line\obj\Debug\Line.csproj.CoreCompileInputs.cache
+D:\C#\Graph\Line\obj\Debug\Line.exe
+D:\C#\Graph\Line\obj\Debug\Line.pdb
